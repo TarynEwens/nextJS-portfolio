@@ -43,7 +43,7 @@ export default function About() {
             <strong>September 2019:</strong> Promoted to Engineer 🎉
           </li>
           <li className={utilStyles.listItemStandard}>
-            <strong>August 2020:</strong> Joined the Editor Fundamentals team at{" "}
+            <strong>August 2020:</strong> Joined the Editor team at{" "}
             <a
               className={utilStyles.linkFeature}
               href="https://www.atlassian.com/"
@@ -69,9 +69,17 @@ export default function About() {
       <section>
         <h3 className={utilStyles.h3}>Things I’ve worked on</h3>
         <h4>Atlassian</h4>
+        {/* <h5>Editor Autonomy Team</h5>
+        <p>Coming soon</p>
+        <h5>Editor Fundamentals Team</h5> */}
         <ul className={utilStyles.listStandard}>
           <li className={utilStyles.listItemStandard}>
-            Currently feature leading a project coming soon!
+            Feature led the{" "}
+            <a href="https://community.atlassian.com/t5/Confluence-articles/New-Undo-Redo-buttons-in-the-Confluence-editor/ba-p/1735895">
+              {" "}
+              new undo/redo buttons in the Confluence editor
+            </a>{" "}
+            (along with predictability improvements) from make to impact!
           </li>
           <li className={utilStyles.listItemStandard}>
             Cypress tests for editor functionality to allow manual testing time
@@ -140,8 +148,8 @@ export default function About() {
           , exploring our local area and Sydney beaches. 🐶
         </p>
         <p>
-          Alternatively I'll be juggling far too many hobbies most recently
-          including:
+          Alternatively I'll be trying all sorts of different hobbies. Some
+          recent ones have included:
         </p>
         <ul>
           <li>
@@ -150,13 +158,13 @@ export default function About() {
             </Link>{" "}
             📚
           </li>
-          <li>learning Solo Jazz dancing 👯‍♀️</li>
+          <li>Solo Jazz dancing 👯‍♀️</li>
           <li>collecting far more indoor plants than necessary 🌱</li>
           <li>
-            attempting to crochet things (I recently finished a beanie!) 🧶
+            attempting to crochet things (I successfully made a beanie!) 🧶
           </li>
-          <li>learning how to rollerskate 🛼</li>
-          <li>very occasionally baking 👩🏻‍🍳</li>
+          <li>rollerskating 🛼</li>
+          <li>baking 👩🏻‍🍳</li>
         </ul>
       </section>
     </Layout>
