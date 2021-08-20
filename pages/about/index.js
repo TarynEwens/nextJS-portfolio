@@ -40,7 +40,7 @@ export default function About() {
             👩🏻‍💻
           </li>
           <li className={utilStyles.listItemStandard}>
-            <strong>September 2019:</strong> Promoted to Engineer 🎉
+            <strong>September 2019:</strong> Promoted to Software Engineer 🎉
           </li>
           <li className={utilStyles.listItemStandard}>
             <strong>August 2020:</strong> Joined the Editor team at{" "}
@@ -138,34 +138,15 @@ export default function About() {
       <section>
         <h3 className={utilStyles.h3}>When I'm not at a computer</h3>
         <p>
-          You'll usually find me going on walks with{" "}
+          You'll usually find me going on adventures with{" "}
           <a
             className={utilStyles.linkFeature}
             href="https://www.instagram.com/lexi.samoyed"
           >
-            Lexi the Samoyed dog
+            Lexi the Samoyed
           </a>
-          , exploring our local area and Sydney beaches. 🐶
+          . 🐶
         </p>
-        <p>
-          Alternatively I'll be trying all sorts of different hobbies. Some
-          recent ones have included:
-        </p>
-        <ul>
-          <li>
-            <Link href="/reading">
-              <a className={utilStyles.linkFeature}>reading </a>
-            </Link>{" "}
-            📚
-          </li>
-          <li>Solo Jazz dancing 👯‍♀️</li>
-          <li>collecting far more indoor plants than necessary 🌱</li>
-          <li>
-            attempting to crochet things (I successfully made a beanie!) 🧶
-          </li>
-          <li>rollerskating 🛼</li>
-          <li>baking 👩🏻‍🍳</li>
-        </ul>
       </section>
     </Layout>
   );

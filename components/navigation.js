@@ -27,11 +27,11 @@ export default function Navigation() {
             <a className={styles.nav__link}>Community</a>
           </Link>
         </li>
-        <li className={styles.nav__listItem}>
+        {/* <li className={styles.nav__listItem}>
           <Link href="/reading">
             <a className={styles.nav__link}>Reading</a>
           </Link>
-        </li>
+        </li> */}
         <li className={styles.nav__listItem}>
           <Link href="/contact">
             <a className={styles.nav__link}>Contact</a>
