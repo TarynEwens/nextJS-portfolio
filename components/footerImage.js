@@ -14,11 +14,6 @@ export default function FooterImage() {
         alt: "CSS image of a gelato cone with happy faces",
       },
       {
-        link: "https://codepen.io/tarynewens/pen/RzgOgG",
-        src: "/cssImages/macarons.png",
-        alt: "CSS image of 3 macarons with happy faces",
-      },
-      {
         link: "https://codepen.io/tarynewens/pen/OKbWKy",
         src: "/cssImages/plant1.png",
         alt: "CSS image of a plant in a pink pot",
