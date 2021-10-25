@@ -35,17 +35,16 @@ export default function Community() {
           </p>
 
           <p>
-            I have previously presented to software engineering classes at{" "}
+            I also present to software engineering classes at{" "}
             <a
               className={utilStyles.linkFeature}
               href="https://generalassemb.ly/"
             >
               General Assembly
             </a>{" "}
-            Sydney (and Melbourne once or twice!). I've introduced them to CSS,
-            the amazing things that can be created with it (think fun
-            interactions and art!), and resources for them to continue learning
-            more!
+            Sydney (and Melbourne once or twice!). I introduce them to CSS, the
+            amazing things that can be created with it (think fun interactions
+            and art!), and resources for them to continue learning more!
           </p>
           <p></p>
         </section>
