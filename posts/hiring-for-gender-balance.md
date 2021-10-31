@@ -1,6 +1,6 @@
 ---
-title: "Hiring for gender balance notes"
-date: "2019-07-22"
+title: Hiring for gender balance notes
+date: 2019-07-21T14:00:00.000Z
 ---
 
 Recently I attended a webinar by [Work180](https://au.work180.co/) titled. “Hiring for a gender balance – job advert training”. Here’s a recap of the rough notes I too.
