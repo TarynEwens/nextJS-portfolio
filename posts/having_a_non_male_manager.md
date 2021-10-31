@@ -1,6 +1,6 @@
 ---
-title: "Why I'm excited to have a non-male manager"
-date: "2021-02-05"
+title: Why I'm excited to have a non-male manager
+date: 2021-02-04T13:00:00.000Z
 ---
 
 Last year I managed to convince my dream company to hire me. Some days I still can't believe it's real.
