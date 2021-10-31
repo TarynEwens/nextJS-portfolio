@@ -1,6 +1,6 @@
 ---
-title: "Moving my site from GatsbyJS to Next.JS"
-date: "2020-05-29"
+title: Moving my site from GatsbyJS to Next.JS
+date: 2020-05-28T14:00:00.000Z
 ---
 
 Are you even a developer if you don't rebuild your portfolio site in every new technology you want to try out? 🤣
