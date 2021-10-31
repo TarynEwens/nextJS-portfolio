@@ -1,6 +1,6 @@
 ---
-title: "Personal branding to help you get your dream job"
-date: "2021-04-10"
+title: Personal branding to help you get your dream job
+date: 2021-04-09T14:00:00.000Z
 ---
 
 <sup>This blog post is a written version of a talk I did at [Muses Hobart](https://musescodejs.org/hobart.html) in December 2020.</sup>
