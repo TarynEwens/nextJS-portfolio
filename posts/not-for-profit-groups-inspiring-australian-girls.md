@@ -1,6 +1,6 @@
 ---
-title: "Not for profit groups inspiring Australian girls in STEM"
-date: "2020-01-08"
+title: Not for profit groups inspiring Australian girls in STEM
+date: 2020-01-07T13:00:00.000Z
 ---
 
 Recently I was interested in finding out what exists around Australia to teach, inspire, or mentor young girls to see the possibilities of STEM subjects and careers.
