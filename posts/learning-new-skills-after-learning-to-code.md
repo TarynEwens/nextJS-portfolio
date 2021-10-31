@@ -1,6 +1,6 @@
 ---
-title: "Learning new skills after learning to code"
-date: "2021-05-16"
+title: Learning new skills after learning to code
+date: 2021-05-15T14:00:00.000Z
 ---
 
 I've always been a perfectionist. Not the sort of perfectionist who would practise hard things until I was good at them. I wish! No, I was the type of perfectionist who would try a new skill and if I wasn't immediately good at it, I'd give up. I believed that if I wasn't naturally good at something, I never would be.
