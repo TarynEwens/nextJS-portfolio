@@ -10,7 +10,12 @@ collections:
     folder: "posts" #The folder that our blog posts will be loaded from and saved to
     create: true #Tells the CMS that new posts can be created
     fields:
-      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          date_format: "MM.DD.YYYY",
+        }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Post Body", name: "body", widget: "markdown" }
       - {
