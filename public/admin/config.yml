@@ -1,21 +1,45 @@
 backend:
   name: git-gateway
+  repo: username/repository
+  branch: master
 media_folder: public/img
 public_folder: img
 collections:
-  - name: "pages"
-    label: "Pages"
-    files:
-      - label: "Home"
-        name: "home"
-        file: "content/home.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Publish Date", name: "date", widget: "datetime" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - label: "Cats"
-            name: "cats"
-            widget: list
-            fields:
-              - { label: "Name", name: "name", widget: "string" }
-              - { label: "Description", name: "description", widget: "text" }
+  - name: "posts" #The name of the collection and should match our posts.json file's tag
+    label: "Posts" #The name of the collection on the CMS itself
+    folder: "posts" #The folder that our blog posts will be loaded from and saved to
+    create: true #Tells the CMS that new posts can be created
+    fields:
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "layouts/post.njk",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Date", name: "date", widget: "date", default: "" }
+      - { label: "Post Body", name: "body", widget: "markdown" }
+      - {
+          label: "Featured Image",
+          name: "featuredImage",
+          widget: "image",
+          required: false,
+        }
+  - name: pages
+    label: Pages
+    folder: pages
+    create: true
+    sortable_fields:
+      - permalink
+    fields:
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "layouts/page.njk",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Page Body", name: "body", widget: "markdown" }
+      - { label: Permalink, name: permalink, widget: string, required: false }
+public_folder: "/img/uploads"
