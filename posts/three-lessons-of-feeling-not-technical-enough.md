@@ -1,6 +1,6 @@
 ---
-title: "3 lessons of feeling 'not technical enough'"
-date: "2020-07-27"
+title: 3 lessons of feeling 'not technical enough'
+date: 2020-07-27
 ---
 
 Do you struggle with imposter syndrome? Same. This isn't a story of how I overcame it. This is a story of my struggle. Maybe it will help you feel less alone in your own struggle.
@@ -51,6 +51,7 @@ Suddenly, little ol' me who was 'not technical enough' had passed every technica
 
 I [tweeted](https://twitter.com/TarynEwens/status/1277812667420299264?s=20) recently about feeling 'not technical enough' and it quickly became my most popular tweet _ever_. I genuinely thought this feeling was to do with my 'non-technical' background, but it turns out it's a feeling that many people relate to.
 </br></br>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dev friends, do you ever feel like you&#39;re not technical enough? Because I do, constantly.</p>&mdash; Taryn (@TarynEwens) <a href="https://twitter.com/TarynEwens/status/1277812667420299264?ref_src=twsrc%5Etfw">June 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </br>
 
