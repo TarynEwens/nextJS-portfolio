@@ -1,6 +1,6 @@
 ---
-title: "My intro to Behaviour Driven Development"
-date: "2019-06-02"
+title: My intro to Behaviour Driven Development
+date: 2019-06-01T14:00:00.000Z
 ---
 
 We’ve recently begun looking into using Behaviour Driven Development (BDD) in our team. Here are just some notes I’ve been making as I’ve been learning about it myself.
