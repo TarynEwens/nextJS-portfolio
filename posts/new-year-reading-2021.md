@@ -1,6 +1,6 @@
 ---
-title: "New Year Reading Plans"
-date: "2021-01-02"
+title: New Year Reading Plans
+date: 2021-01-01T13:00:00.000Z
 ---
 
 I set myself a goal to read 24 books in 2020.
