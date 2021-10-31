@@ -11,7 +11,7 @@ With the dumpster fire mess that was 2020, I ended up exceeding my goal by readi
 
 ###
 
-![Stack of books read in 2020 in front of computer](/blogImages/books-2020.png)
+![Stack of books read in 2020 in front of computer](/img/books-2020.png)
 
 ###
 
@@ -31,11 +31,9 @@ First, to recap 2020, here are some of my favourite reads (or listens - some wer
 - [The Tattooist of Auschwitz by Heather Morris](https://www.booktopia.com.au/the-tattooist-of-auschwitz-heather-morris/book/9781760403171.html)
 - [The Hate U Give by Angie Thomas](https://www.booktopia.com.au/the-hate-u-give-angie-thomas/book/9781406387933.html)
 
-
 ###
 
-![Two books waiting to be read](/blogImages/books-2021.png)
-
+![Two books waiting to be read](/img/books-2021.png)
 
 ### Reading plans for 2021
 
@@ -48,7 +46,6 @@ I haven't planned out the whole year as I'm sure new books or topics will come u
 I modified the standard [Notion Reading List template](https://www.notion.so/Reading-List-14918425560f4ec5b303314a29eb53e1) to be more relevant to me. If you'd like to use this template you can duplicate either of these pages into your own Notion account.
 
 If you're interested, I will be sharing my thoughts & reviews of these books on my [Instagram account](https://www.instagram.com/taryn.codes/).
-
 
 ### Important links
 

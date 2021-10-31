@@ -66,12 +66,12 @@ export default function Community() {
 
         <section className={utilStyles.imageWrapper}>
           <img
-            src="/images/taryn-speaking1.jpg"
+            src="/img/taryn-speaking1.jpg"
             className={utilStyles.imageHalf}
             alt="Taryn speaking at SydCSS"
           />
           <img
-            src="/images/taryn-speaking2.jpg"
+            src="/img/taryn-speaking2.jpg"
             className={utilStyles.imageHalf}
             alt="Taryn speaking at SydCSS"
           />

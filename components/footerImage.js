@@ -10,27 +10,27 @@ export default function FooterImage() {
     let images = [
       {
         link: "https://codepen.io/tarynewens/pen/KbeNYX",
-        src: "/cssImages/gelato.png",
+        src: "/img/gelato.png",
         alt: "CSS image of a gelato cone with happy faces",
       },
       {
         link: "https://codepen.io/tarynewens/pen/OKbWKy",
-        src: "/cssImages/plant1.png",
+        src: "/img/plant1.png",
         alt: "CSS image of a plant in a pink pot",
       },
       {
         link: "https://codepen.io/tarynewens/pen/rEqONM",
-        src: "/cssImages/plant2.png",
+        src: "/img/plant2.png",
         alt: "CSS image of a plant in a pink pot",
       },
       {
         link: "https://codepen.io/tarynewens/pen/WmwgJR",
-        src: "/cssImages/pig.png",
+        src: "/img/pig.png",
         alt: "CSS image of a geometric pig",
       },
       {
         link: "https://codepen.io/tarynewens/pen/WPgwZO",
-        src: "/cssImages/heart.png",
+        src: "/img/heart.png",
         alt: "CSS image of a geometric heart",
       },
     ];

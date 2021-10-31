@@ -56,12 +56,12 @@ export default function About() {
       </section>
       <section className={utilStyles.imageWrapper}>
         <img
-          src="/images/taryndesk.jpg"
+          src="/img/taryndesk.jpg"
           className={utilStyles.imageHalf}
           alt="Taryn sitting in her home office"
         />
         <img
-          src="/images/speaking-thanks.jpg"
+          src="/img/speaking-thanks.jpg"
           className={utilStyles.imageHalf}
           alt="Taryn speaking at SydCSS"
         />
@@ -125,12 +125,12 @@ export default function About() {
       </section>
       <section className={utilStyles.imageWrapper}>
         <img
-          src="/images/taryn-lexi-desk1.jpg"
+          src="/img/taryn-lexi-desk1.jpg"
           className={utilStyles.imageHalf}
           alt="Taryn at her desk with her big fluffy dog begging for treats"
         />
         <img
-          src="/images/taryn-lexi-desk2.jpg"
+          src="/img/taryn-lexi-desk2.jpg"
           className={utilStyles.imageHalf}
           alt="Taryn at her desk giving her big fluffy dog a treat"
         />

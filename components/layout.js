@@ -31,7 +31,7 @@ export default function Layout({ children, home }) {
                   <h1 className={`${styles.heading} ${styles.headingHome}`}>
                     Taryn
                     <img
-                      src="/images/profile.png"
+                      src="/img/profile.png"
                       className={`${styles.headerHomeImage} ${utilStyles.borderCircle}`}
                       alt="Cartoon avatar of Taryn Ewens"
                     />
@@ -50,7 +50,7 @@ export default function Layout({ children, home }) {
                   <h1 className={`${styles.heading} ${styles.headingOther}`}>
                     Taryn
                     <img
-                      src="/images/profile.png"
+                      src="/img/profile.png"
                       className={`${styles.headerImage} ${utilStyles.borderCircle}`}
                       alt="Cartoon avatar of Taryn Ewens"
                     />
