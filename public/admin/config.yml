@@ -10,15 +10,8 @@ collections:
     folder: "posts" #The folder that our blog posts will be loaded from and saved to
     create: true #Tells the CMS that new posts can be created
     fields:
-      - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "layouts/post.njk",
-        }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Date", name: "date", widget: "date", default: "" }
+      - { label: "Date", name: "date", widget: "string" }
       - { label: "Post Body", name: "body", widget: "markdown" }
       - {
           label: "Featured Image",
@@ -26,19 +19,3 @@ collections:
           widget: "image",
           required: false,
         }
-  - name: pages
-    label: Pages
-    folder: pages
-    create: true
-    sortable_fields:
-      - permalink
-    fields:
-      - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "layouts/page.njk",
-        }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Page Body", name: "body", widget: "markdown" }
-      - { label: Permalink, name: permalink, widget: string, required: false }
