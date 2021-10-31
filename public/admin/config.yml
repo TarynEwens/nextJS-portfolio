@@ -11,7 +11,7 @@ collections:
     create: true #Tells the CMS that new posts can be created
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Post Body", name: "body", widget: "markdown" }
       - {
           label: "Featured Image",

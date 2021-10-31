@@ -1,6 +1,6 @@
 ---
-title: Pure CSS Images not just for funsies
-date: 2020-04-19
+title: "Pure CSS Images not just for 'funsies'"
+date: "2020-04-19"
 ---
 
 In 2019 I did a lightning talk at the [SydCSS](https://www.meetup.com/en-AU/SydCSS/) first time speakers night. This is a written version of that talk for those who were not able to attend. You can still [view the slides for the talk if you’re interested](https://docs.google.com/presentation/d/19nUNOWb3MLZZXNZhlWYwP9CXvZnWKJUBjjlVzm4RBsw/edit?usp=sharing).
