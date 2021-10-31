@@ -1,6 +1,6 @@
 ---
-title: "3 lessons of feeling 'not technical enough'"
-date: "2020-07-27"
+title: 3 lessons of feeling 'not technical enough'
+date: 2020-07-26T14:00:00.000Z
 ---
 
 Do you struggle with imposter syndrome? Same. This isn't a story of how I overcame it. This is a story of my struggle. Maybe it will help you feel less alone in your own struggle.
